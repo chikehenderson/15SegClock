@@ -1,4 +1,4 @@
-7SegClock
+15SegClock
 =========
 
-A 7 Segment Display Type Clock - (WebApp)
+A 15 Segment Display Type Clock - (WebApp)
